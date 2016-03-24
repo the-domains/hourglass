@@ -1,0 +1,14 @@
+layout_spectrum: 0.6057371
+typography_spectrum: 0.2846324
+color:
+  saturation: 0.01396813
+  lightness: 0.5169294
+  brandStrength: 0.05578118
+  rhythmicContrast: 0.4762191
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: HourGlass
